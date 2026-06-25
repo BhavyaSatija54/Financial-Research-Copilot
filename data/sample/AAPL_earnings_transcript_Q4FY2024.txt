@@ -1,0 +1,55 @@
+APPLE INC. (AAPL) — Q4 FY2024 EARNINGS CALL TRANSCRIPT
+Document Type: Earnings Transcript
+Ticker: AAPL
+Company: Apple Inc.
+Period: Q4 FY2024 (ended September 28, 2024)
+Filed Date: 2024-10-31
+
+PARTICIPANTS
+- Tim Cook, Chief Executive Officer
+- Luca Maestri, Senior Vice President and Chief Financial Officer
+- Suhasini Chandramouli, Director of Investor Relations
+
+OPERATOR: Good day and welcome to the Apple Q4 fiscal year 2024 earnings conference call. I would now like to introduce Suhasini Chandramouli, Apple's Director of Investor Relations.
+
+SUHASINI CHANDRAMOULI: Thank you. Good afternoon, and thank you for joining us. Speaking first today is Apple's CEO, Tim Cook, followed by our CFO, Luca Maestri.
+
+TIM COOK — CHIEF EXECUTIVE OFFICER:
+Good afternoon, everyone. We are pleased to report another record quarter for Apple, with revenue reaching $94.9 billion, up 6% year over year. We set all-time revenue records in Services and Mac, and September quarter records in iPhone, iPad, and Wearables. We generated over $27 billion in operating cash flow during the quarter.
+
+We are incredibly excited about Apple Intelligence, our personal intelligence system that puts powerful AI models at the core of iPhone, iPad, and Mac. We believe Apple Intelligence represents a fundamental shift in what users can do with their devices and positions us uniquely in the AI landscape.
+
+iPhone revenue was $46.2 billion, a September quarter record. We are seeing strong demand for iPhone 16, and we are in the early innings of a significant upgrade cycle as users are drawn to Apple Intelligence capabilities on iPhone 16 Pro and iPhone 16 Pro Max. China revenue was $15.0 billion, roughly flat year over year as we compete in a dynamic market.
+
+Our Services business reached a new all-time revenue record of $25.0 billion, up 12% year over year. We now have over 1 billion paid subscriptions across our platform, and our installed base of active devices has reached a new all-time high. This gives us confidence in the long-term trajectory of our Services business.
+
+Mac revenue was $7.7 billion, an all-time record, driven by the M4 chip transition and strong demand for MacBook Pro. iPad revenue was $7.0 billion, up 8% year over year, reflecting strong response to the new iPad mini with Apple Intelligence capability.
+
+LUCA MAESTRI — CHIEF FINANCIAL OFFICER:
+Thank you, Tim. Let me provide additional details on our financial results.
+
+Total revenue for the September quarter was $94.9 billion, an increase of 6% year over year. Products revenue was $69.9 billion, while Services revenue set a new all-time record of $25.0 billion.
+
+Our gross margin was 46.2%, above the high end of our guidance range of 45.5%–46.5%. Products gross margin was 37.2%, while Services gross margin was 74.0%, reflecting the high-margin nature of our growing subscription business.
+
+Operating income was $29.6 billion, with operating margin at 31.2%. Net income was $14.7 billion, or $0.97 per diluted share, up from $0.89 in the year-ago quarter.
+
+During the September quarter, we returned over $29 billion to shareholders, including $3.8 billion in dividends and $25.2 billion in share repurchases. We have now repurchased over $700 billion of our shares cumulatively.
+
+Cash and marketable securities ended the quarter at $156.8 billion. Net cash position was $51.0 billion. We remain committed to reaching cash-neutral over time.
+
+For the December quarter, we expect revenue to grow in the low-to-mid single digits year over year. We expect gross margin to be between 46.5% and 47.0%. We expect operating expenses between $15.3 billion and $15.5 billion. We expect other income and expense to be approximately $100 million, and our tax rate to be approximately 24%.
+
+QUESTION AND ANSWER SESSION
+
+ANALYST (Morgan Stanley): Tim, can you talk about the competitive dynamics in China and whether you're seeing any recovery?
+
+TIM COOK: We saw improvement in China in the back half of the fiscal year. We had six consecutive quarters of year-over-year declines and then we saw improvement — in fact, in our fiscal Q3 we were roughly flat. We continued roughly flat in Q4. We're optimistic about China. We have an incredibly loyal installed base there. We continue to invest in retail and in developer relationships. We believe the iPhone 16 and Apple Intelligence — as it becomes available in additional languages including Simplified Chinese — will be a meaningful driver.
+
+ANALYST (Goldman Sachs): Luca, on Services gross margin — you hit 74% this quarter. Is that sustainable, or should we expect some compression?
+
+LUCA MAESTRI: Services gross margin continues to benefit from scale. We have a growing installed base, now over 1 billion paid subscriptions. The mix of our Services business continues to evolve, with higher-margin offerings like licensing, App Store, and AppleCare growing as a proportion of the mix. We don't provide long-term guidance on gross margin, but we continue to see a positive trajectory driven by scale and mix.
+
+ANALYST (JPMorgan): Can you quantify the headwind from foreign exchange?
+
+LUCA MAESTRI: FX was approximately a 1-percentage-point headwind on revenue growth in the September quarter. On a constant currency basis, revenue grew approximately 7% year over year. We continue to see meaningful volatility in currencies like the Euro, Yen, and Renminbi, which create headwinds given that the dollar remains relatively strong.

@@ -1,0 +1,45 @@
+FEDERAL RESERVE MONETARY POLICY REPORT — Q3 2024
+Document Type: Macroeconomic Report
+Source: Federal Reserve Board
+Period: July–September 2024
+Category: Monetary Policy
+
+EXECUTIVE SUMMARY
+
+The Federal Open Market Committee (FOMC) maintained the federal funds rate target range at 5.25%–5.50% through the third quarter of 2024, marking the longest pause in the current tightening cycle. Committee members signalled growing confidence that inflation is on a sustainable path toward the 2% target, while noting that labour market conditions remain solid despite modest cooling.
+
+INFLATION DYNAMICS
+
+Consumer Price Index (CPI) inflation declined to 2.9% year-over-year in July 2024, down from a peak of 9.1% in June 2022. Core PCE inflation, the Fed's preferred measure, fell to 2.6% in July, the lowest reading since March 2021. Goods deflation continued as supply chains normalised, while services inflation — particularly shelter costs — remained elevated, contributing approximately 70 basis points to headline CPI.
+
+Inflation expectations remained well-anchored. The University of Michigan 5-year ahead inflation expectations survey held steady at 3.0%, while market-implied breakeven rates for 5-year TIPS hovered near 2.2%.
+
+LABOUR MARKET CONDITIONS
+
+Non-farm payrolls increased by an average of 170,000 per month in Q3 2024, a moderation from the 240,000 monthly average in 2023. The unemployment rate ticked up to 4.2% in August, from a cycle low of 3.4% in January 2023. The prime-age (25–54) employment-population ratio remained near its highest level in over two decades at 80.9%.
+
+Job openings declined to approximately 7.7 million from a peak of 12 million in early 2022, suggesting reduced labour demand without triggering significant layoffs. The quits rate fell to 2.1%, approaching pre-pandemic norms and consistent with reduced wage bargaining power.
+
+FINANCIAL CONDITIONS
+
+The 10-year Treasury yield ended Q3 2024 at 4.21%, up from 3.97% at the start of the quarter, reflecting upward revisions to the neutral rate and reduced near-term rate cut expectations. The yield curve, as measured by the 2s10s spread, remained inverted at approximately −20 basis points.
+
+Credit spreads for investment-grade and high-yield corporate bonds remained tight, reflecting healthy corporate balance sheets and investor risk appetite. The S&P 500 returned 5.5% in Q3, supported by strong earnings growth in technology and communication services.
+
+ECONOMIC OUTLOOK
+
+Real GDP growth in Q2 2024 was revised upward to 3.0% annualised, driven by robust consumer spending and business fixed investment. The Atlanta Fed GDPNow model estimated Q3 2024 growth at 2.5% as of September 10, suggesting continued above-trend expansion.
+
+The committee revised its 2024 median real GDP forecast to 2.1%, above the June projection of 2.1%, while lowering the unemployment rate projection to 4.4% by year-end. The median projection for core PCE inflation was revised to 2.6% for 2024, with a return to 2.0% projected for 2026.
+
+RISKS TO THE OUTLOOK
+
+Upside risks to inflation include: (1) a potential reacceleration in shelter costs if housing supply remains constrained; (2) geopolitical shocks driving energy price volatility; (3) fiscal expansion ahead of the 2024 election.
+
+Downside risks to growth include: (1) a sharper-than-expected slowdown in consumer spending as pandemic-era savings are depleted; (2) tightening credit conditions from elevated commercial real estate delinquencies; (3) a further deterioration in Chinese economic activity affecting global demand.
+
+POLICY IMPLICATIONS
+
+Market participants priced in approximately 75 basis points of rate cuts through end-2024 as of September 2024, with the first cut expected in November. The Fed's quarterly dot plot showed a median projection of one 25-basis-point cut in 2024, two in 2025, and two in 2026, implying a terminal rate of approximately 3.0%–3.25%.
+
+The committee emphasised that future policy decisions remain data-dependent and that the balance of risks between achieving the 2% inflation target and maintaining maximum employment has become more symmetric compared to the 2022–2023 period.
