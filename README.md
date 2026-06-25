@@ -1,4 +1,4 @@
-# 📊 Financial Research Copilot
+# Financial Research Copilot
 
 > **Production-grade hybrid RAG research assistant for SEC filings, earnings transcripts, and macroeconomic data.**
 > Built with Python, LangChain, FAISS, BM25, OpenAI, FastAPI, and Streamlit.
@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Details |
 |---|---|
@@ -23,12 +23,11 @@
 | **Streamlit UI** | Dark-theme conversational interface with charts, filters, document browser |
 | **Streaming Responses** | SSE token streaming on `/api/v1/query/stream` |
 | **Redis Caching** | SHA-256 keyed query cache; ~80ms on cache hit vs ~1.2s cold |
-| **Multi-Agent Synthesis** | Research → Analyst → Citation agents with intent classification |
 | **Production API** | FastAPI + rate limiting + CORS + GZip + request logging |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & install
 
@@ -89,7 +88,7 @@ make run-ui
 
 ---
 
-## 🖥️ Streamlit UI
+## Streamlit UI
 
 Four pages:
 
@@ -102,7 +101,7 @@ Four pages:
 
 ---
 
-## 🔌 API Reference
+## API Reference
 
 ### Query
 
@@ -158,7 +157,7 @@ curl -X POST http://localhost:8000/api/v1/ingest/file \
 
 ---
 
-## 🐳 Docker
+## Docker
 
 ```bash
 # API + Redis
@@ -176,7 +175,7 @@ make docker-stop
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 make test              # Full suite with coverage
@@ -187,7 +186,7 @@ make check             # lint + type-check + unit tests
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 financial-research-copilot/
@@ -224,7 +223,7 @@ financial-research-copilot/
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 
 ```
 User Query
@@ -256,7 +255,7 @@ Streamlit UI / REST client
 
 ---
 
-## 📈 Performance
+## Performance
 
 | Metric | Value |
 |---|---|
@@ -268,6 +267,6 @@ Streamlit UI / REST client
 
 ---
 
-## 📄 License
+## License
 
 MIT — see [LICENSE](LICENSE)
